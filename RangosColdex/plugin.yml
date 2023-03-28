@@ -1,0 +1,15 @@
+name: RangosColdex
+version: 1.0.0
+api: [4.0.0]
+main: coldex\VladimirPro3YT\RangosColdex
+author: VladimirPro3YT
+description: ColdexCraft 2023 Rangos by VladimirPro3
+
+commands:
+  rangos:
+    description: Muestra los diferentes rangos disponibles
+    permission: coldex.rangos
+
+permissions:
+  coldex.rangos: 
+    description: Permite a los jugadores ver los diferentes rangos disponibles en ColdexCraft 2023.
